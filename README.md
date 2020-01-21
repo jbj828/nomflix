@@ -1,5 +1,7 @@
 # Nomflix
 
+https://jbj828.github.io/nomflix/#/
+
 Learning React and ES6 by building a Movie Discovery App.
 
 ## Screens
