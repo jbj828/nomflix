@@ -1,23 +1,10 @@
 # Nomflix
+Build a Movie Discovery App by ReactJS.
 
-https://jbj828.github.io/nomflix/#/
+## Structure
+This app is build with ReactJS, HTML and CSS. 
+It is a simple movie discovery app which is clonned the 'Popcorn time'. Popcorn time is one of the famous movie app which is really similar to NetFlix. All the movie information is from Movie API. This Movie API has the name, info, poster, date and all other information that is relevant to the movie. 
 
-Learning React and ES6 by building a Movie Discovery App.
 
-## Screens
 
-- [ ] Home
-- [ ] TV Shows
-- [ ] Search
-- [ ] Detail
 
-## API Verbs
-
-- [x] Now playing (Movie)
-- [x] Top Rated (TV)
-- [x] Popular (TV, Movie)
-- [x] Upcoming (Movie)
-- [x] Airing Today (TV)
-- [x] TV Show Detail
-- [x] Movie Detail
-- [x] Search (Movie, TV)
